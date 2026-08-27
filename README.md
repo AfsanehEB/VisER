@@ -1,2 +1,3 @@
-# VisER
-🔎Official code for our paper: "VisER: Visual Evidence and Reliance for Object Hallucination Detection in LVLMs".
+Official Code for EMNLP2026 Main paper "VisER: Visual Evidence and Reliance for Object Hallucination Detection in LVLMs"
+
+COMING SOON ...
